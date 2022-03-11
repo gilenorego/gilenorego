@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @gilenorego
+- 💻 I work as a freelancer on Upwork: https://bit.ly/gileno-upwork
 - 👀 I’m interested in using technology with purpose to help people have a better way of living.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on projects that go beyond the code.
